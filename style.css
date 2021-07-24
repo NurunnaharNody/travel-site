@@ -80,9 +80,9 @@ nav{
 .button-primary{
     text-decoration: none;
     color: #FFFFFF;
-    
+    padding:0px  10px;
     background-color: #F1A501;
-    border-radius: 10px;
+    border-radius: 0px 10px;
 }
  .intro-image img{
     width: 100%;
